@@ -1,14 +1,19 @@
 h1 {
-  font-size: 65px;
-  color: rgb(22, 171, 230);
+  font-size: 70px;
+  color: rgb(23, 130, 197);
   font-family: sans-serif;
   text-align: center;
+}
+
+h2,
+h3 {
+  color: orangered;
 }
 
 body {
   font-family: sans-serif;
   font-size: 35px;
-  margin: 20px;
+  margin: 20;
   padding: 30px;
   text-align: center;
 }
